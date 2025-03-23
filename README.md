@@ -12,12 +12,17 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+---
+
 ## 🌐 Connect with Me
 <span style="display: flex; gap: 1rem; justify-content: center;">
 <a href="https://linkedin.com/in/jaehoon0905"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://jxehxxn.github.io/"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://jxehxxn.github.io/blog/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </span>
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -100,4 +105,4 @@
 
 ---
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehoon0905%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=&edge_flat=true" style="width=1px; height=1px;" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehoon0905%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=&edge_flat=true" style="display:block; width=1px; height=1px;" />
