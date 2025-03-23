@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNyYjBoOXoyOWRwZDRxYjdncDBsdTYzZXpneTN0YXpnb2djN2h1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TkagzJHXLWmI/giphy.gif" />
+
+
 ## **What I Do**
 - 🌐 **Web Development**
 - 🌩️ **Infrastructure**
@@ -12,9 +16,9 @@
 ## 🌐 Connect with Me
 
 <span style="display: flex; gap: 1rem; justify-content: center;">
-<a href="https://linkedin.com/in/jaehoon0905"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://jxehxxn.github.io/"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://jxehxxn.github.io/blog/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://linkedin.com/in/jaehoon0905"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://jxehxxn.github.io/"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://jxehxxn.github.io/blog/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white"/ ></a>
 </span>
 
 ## 🛠️ Technologies & Tools
