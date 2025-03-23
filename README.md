@@ -12,10 +12,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehoon0905&layout=compact)
-
----
-
 ## 🌐 Connect with Me
 <span style="display: flex; gap: 1rem; justify-content: center;">
 <a href="https://linkedin.com/in/jaehoon0905"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
